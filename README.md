@@ -5,5 +5,5 @@ Goodbye World.
 ## Welcome 2021!
 *Let's get the* vaccines
 
-!(https://markdown-here.com/img/icon256.png)
+![delete logo](https://graphiccave.com/wp-content/uploads/2015/04/Delete-Icon-PNG-Graphic-Cave.png)
 <html>123<html>
