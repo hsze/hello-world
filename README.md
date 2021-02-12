@@ -6,5 +6,5 @@ Goodbye World.
 *Let's get the* vaccines
 
 [CDC](https://www.cdc.gov)
-![delete logo](https://graphiccave.com/wp-content/uploads/2015/04/Delete-Icon-PNG-Graphic-Cave.png)
+![peace](http://pngimg.com/uploads/peace_symbol/small/peace_symbol_PNG90.png)
 <html>123<html>
